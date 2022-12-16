@@ -1,0 +1,12 @@
+body {
+  width: 400px;
+  height: 400px;
+}
+
+div {
+  margin: 5px auto;
+}
+
+h1 {
+  color: blue;
+}
